@@ -1,5 +1,5 @@
 function TaskInput(){
-    return <>Hell world</>
+    return <>Hello world</>
 }
 
 export default TaskInput;
