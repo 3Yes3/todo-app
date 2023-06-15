@@ -23,7 +23,7 @@ export default function Home() {
           <h1>Todo-Marleigh</h1>
         </div>
         <div className={styles.Input}>
-       <TaskInput/>
+       <TaskInput numberOfGreeting={0} greeting={""} color={""}/>
         </div>
         <div className={styles.ItemsContainer}>
         </div>
